@@ -1,0 +1,6 @@
+{
+  "name": "Aura Interior",
+  "description": "Luxury interior design studio in Dindigul, Tamil Nadu, crafting bespoke residential and commercial spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
